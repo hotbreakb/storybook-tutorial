@@ -21,22 +21,24 @@
 - boolean, text, radio 등 여기서 제공하는 Knobs가 있다.
 - `import { text } from '@storybook/addon-knobs';`
 
-<img width=400 src="https://user-images.githubusercontent.com/64337152/165024938-d4aac773-0c9f-4818-9855-72c915360b11.gif">
+<img width=500 src="https://user-images.githubusercontent.com/64337152/165024938-d4aac773-0c9f-4818-9855-72c915360b11.gif">
 
 ### 👀 addon-actions
 - 컴포넌트를 통해 무슨 파라미터를 가지고 어떤 함수가 호출되었는지 확인할 수 있다.
 - 리액트 라우터의 주소 이동이나 리덕스의 dispatch도 확인 가능!
 
-<img width=400 src="https://user-images.githubusercontent.com/64337152/165027538-33ee5db1-8bbf-4a68-be1c-9c2c5c14acee.gif">
+<img width=500 src="https://user-images.githubusercontent.com/64337152/165027538-33ee5db1-8bbf-4a68-be1c-9c2c5c14acee.gif">
 
 ### 👀 prop-types
 - [Docs] props에 대한 설명을 추가한다.
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/64337152/165028788-907bb343-a374-483a-8679-fc108f1482ee.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/64337152/165028788-907bb343-a374-483a-8679-fc108f1482ee.png">
 
 
 ### 👀 component description
 - [Docs] 컴포넌트에 대한 부제목과 설명을 추가한다.
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/64337152/165030195-20260e06-b9e6-4909-8c59-746bef67a2ed.png">
 
 <br>
 
