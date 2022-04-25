@@ -1,6 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+/**
+ * 사용자에게 인사하고 싶을 땐 `Hello` 컴포넌트를 사용하세요.
+ *
+ * - `name`으로 OO을 변경할 수 있습니다.
+ * - `big` 값을 `true`로 설정하면 **크게** 나타납니다.
+ */
 const Hello = ({ name, big, onHello, onBye }) => {
     return (
         <div>

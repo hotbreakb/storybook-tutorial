@@ -30,9 +30,13 @@
 <img width=400 src="https://user-images.githubusercontent.com/64337152/165027538-33ee5db1-8bbf-4a68-be1c-9c2c5c14acee.gif">
 
 ### 👀 prop-types
-- Docs에 props에 대한 설명을 추가할 수 있다.
+- [Docs] props에 대한 설명을 추가한다.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/64337152/165028788-907bb343-a374-483a-8679-fc108f1482ee.png">
+
+
+### 👀 component description
+- [Docs] 컴포넌트에 대한 부제목과 설명을 추가한다.
 
 <br>
 
