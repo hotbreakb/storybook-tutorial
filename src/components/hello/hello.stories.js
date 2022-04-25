@@ -1,6 +1,7 @@
 import React from 'react';
 import Hello from './hello';
 import { withKnobs, boolean, text } from '@storybook/addon-knobs';
+import { action } from '@storybook/addon-actions';
 
 export default {
     title: 'components|basic/Hello', // 스토리북에서 보여질 그룹과 경로를 명시
@@ -13,7 +14,14 @@ export const hello = () => {
     // 순서: Knobs의 이름, 기본값 그리고 Group Id
     const big = boolean('크게/작게', false);
     const name = text('이름', 'Storybook');
-    return <Hello name={name} big={big} />;
+    return (
+        <Hello
+            name={name}
+            big={big}
+            onHello={action('onHello')}
+            onBye={action('onBye')}
+        />
+    );
 };
 hello.story = {
     name: 'Default'
