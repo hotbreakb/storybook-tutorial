@@ -28,5 +28,7 @@
 - 컴포넌트를 통해 무슨 파라미터를 가지고 어떤 함수가 호출되었는지 확인할 수 있다.
 - 리액트 라우터의 주소 이동이나 리덕스의 dispatch도 확인 가능!
 
+<img width=400 src="https://user-images.githubusercontent.com/64337152/165027538-33ee5db1-8bbf-4a68-be1c-9c2c5c14acee.gif">
+
 ## 참고 자료
 - [벨로퍼트의 storybook](https://velog.io/@velopert/start-storybook)
