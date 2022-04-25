@@ -7,6 +7,8 @@
 - 개발 테스트
 - 디자인팀과 의사소통
 
+<br>
+
 ## 실행
 
 ### stories 폴더 위치 변경
@@ -20,3 +22,4 @@
 - `import { text } from '@storybook/addon-knobs';`
 
 #### 동작 예시
+<img width=400 src="https://user-images.githubusercontent.com/64337152/165024938-d4aac773-0c9f-4818-9855-72c915360b11.gif">
