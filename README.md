@@ -30,5 +30,9 @@
 
 <img width=400 src="https://user-images.githubusercontent.com/64337152/165027538-33ee5db1-8bbf-4a68-be1c-9c2c5c14acee.gif">
 
+### prop-types
+- Docs에 props에 대한 설명을 추가할 수 있다.
+
+
 ## 참고 자료
 - [벨로퍼트의 storybook](https://velog.io/@velopert/start-storybook)
